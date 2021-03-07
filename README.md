@@ -1,4 +1,4 @@
-![Factions Banner][image](https://user-images.githubusercontent.com/62724481/110229600-b3d44200-7ed8-11eb-8ae0-9df9251609b6.png)
+!https://media.discordapp.net/attachments/707081468970795018/817985916529803274/Factions.png
 
 ## Being Maintained (Using As Template)
 We are no longer maintaining this project. All updates have now become private, and to only be used for our network ZectorPE.
