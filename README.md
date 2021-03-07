@@ -1,4 +1,4 @@
-!https://media.discordapp.net/attachments/707081468970795018/817985916529803274/Factions.png
+![PiggyFactions Banner]https://media.discordapp.net/attachments/707081468970795018/817985916529803274/Factions.png
 
 ## Being Maintained (Using As Template)
 We are no longer maintaining this project. All updates have now become private, and to only be used for our network ZectorPE.
