@@ -3,16 +3,7 @@ ConstructFactions is an open-sourced factions plugin for [PocketMine-MP](https:/
 ## Disclaimer
 Factions is currently in beta. While we have tested quite thoroughly, there may exist some bugs. Please report any issue on GitHub.
 
-## Being Maintained (Using As Template)
-We are no longer maintaining this project. All updates have now become private, and to only be used for our network ZectorPE.
-This plugin was supposed to be used for our new network ZectorPE.
-After thinking after time, we decided to put this project on hold until further notice.
-If you'd like to however take over the project, or you're a developer yourself, and would like to continue maintaining it, then please fork this repo. This will allow you to continue maintaining the project.
-This project will be continued to display for everyone to download. There will just be no more updates from us with this repo.
-
-
-
-## FactionsPro
+## ConstructFactions
 A modified plugin, better than ever. Being updated frequently. Edited by the VMPE development team. We update this plugin most of the time, features, bug fixes, and more. If you have any issues, or suggestions on what we should fix / add to this plugin, please open a new issue. We will make sure to read them. Thank you.
 
 ## What is this branch?
