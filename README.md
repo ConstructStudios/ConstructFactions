@@ -1,4 +1,4 @@
-Factions is an open-sourced factions plugin for [PocketMine-MP](https://github.com/pmmp/PocketMine-MP).
+ConstructFactions is an open-sourced factions plugin for [PocketMine-MP](https://github.com/pmmp/PocketMine-MP).
 
 ## Disclaimer
 Factions is currently in beta. While we have tested quite thoroughly, there may exist some bugs. Please report any issue on GitHub.
