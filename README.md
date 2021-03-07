@@ -1,4 +1,4 @@
-![Factions Banner]![image](https://user-images.githubusercontent.com/62724481/110229600-b3d44200-7ed8-11eb-8ae0-9df9251609b6.png)
+![Factions Banner][image](https://user-images.githubusercontent.com/62724481/110229600-b3d44200-7ed8-11eb-8ae0-9df9251609b6.png)
 
 ## Being Maintained (Using As Template)
 We are no longer maintaining this project. All updates have now become private, and to only be used for our network ZectorPE.
