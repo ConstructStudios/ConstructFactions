@@ -1,4 +1,7 @@
-![PiggyFactions Banner]https://media.discordapp.net/attachments/707081468970795018/817985916529803274/Factions.png
+Factions is an open-sourced factions plugin for [PocketMine-MP](https://github.com/pmmp/PocketMine-MP).
+
+## Disclaimer
+Factions is currently in beta. While we have tested quite thoroughly, there may exist some bugs. Please report any issue on GitHub.
 
 ## Being Maintained (Using As Template)
 We are no longer maintaining this project. All updates have now become private, and to only be used for our network ZectorPE.
