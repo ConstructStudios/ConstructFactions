@@ -3,6 +3,9 @@ ConstructFactions is an open-sourced factions plugin for [PocketMine-MP](https:/
 ## Disclaimer
 Factions is currently in beta. While we have tested quite thoroughly, there may exist some bugs. Please report any issue on GitHub.
 
+## Video Tutorial
+With this video, will show you what the plugin looks like. [Tutorial](https://youtu.be/cUHw4aSaEko)
+
 ## ConstructFactions
 A modified plugin, better than ever. Being updated frequently. Made by the ConstructStudios team. We update this plugin most of the time, features, bug fixes, and more. If you have any issues, or suggestions on what we should fix / add to this plugin, please open a new issue. We will make sure to read them. Thank you.
 
